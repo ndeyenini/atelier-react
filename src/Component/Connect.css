@@ -1,0 +1,25 @@
+.met{
+     border: 1px solid black; 
+     height: 200%; 
+     width: 46%; 
+     margin-top: 2%; 
+      box-shadow: 0px 1px 2px black;
+      background-color:#ffff;
+}
+body{
+    background-color: rgb(246, 246, 250);
+}
+.img{
+    width: 80px;
+    margin-left: 44%;
+    margin-top: 5%;
+   
+}
+/* .container{
+    background-color:#ffff;
+    width: 50%;
+    box-shadow: 0px 1px 2px black;;
+} */
+.form-control{
+    /* width: 150%; */
+}
